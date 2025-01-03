@@ -1,0 +1,16 @@
+PODS:
+  - BlokID-iOS-Netset (1.0.0)
+
+DEPENDENCIES:
+  - BlokID-iOS-Netset (from `../BlokID-iOS-Netset`)
+
+EXTERNAL SOURCES:
+  BlokID-iOS-Netset:
+    :path: "../BlokID-iOS-Netset"
+
+SPEC CHECKSUMS:
+  BlokID-iOS-Netset: 4cb12a9abd1ca32c974faec3972aae4e608909de
+
+PODFILE CHECKSUM: 96ba0c32930e34ba958aaa2e48a3ddc22bd87920
+
+COCOAPODS: 1.16.2
