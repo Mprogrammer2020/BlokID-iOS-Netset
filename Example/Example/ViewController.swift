@@ -6,12 +6,15 @@
 //
 
 import UIKit
+import BlokID_iOS_Netset
 
 class ViewController: UIViewController {
 
+    let objBlokIDTrack = BlokIDTrack(siteIdentifier: "")
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        objBlokIDTrack.trackEvent(event: .firstVisit)
     }
 
 

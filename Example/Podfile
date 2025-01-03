@@ -7,6 +7,7 @@ target 'Example' do
 
   # Pods for Example
      
-    pod 'BlokID-iOS-Netset', :path => '../BlokID-iOS-Netset' 
+    # pod 'BlokID-iOS-Netset', :path => '../BlokID-iOS-Netset' 
+    pod 'BlokID-iOS-Netset' 
 
 end

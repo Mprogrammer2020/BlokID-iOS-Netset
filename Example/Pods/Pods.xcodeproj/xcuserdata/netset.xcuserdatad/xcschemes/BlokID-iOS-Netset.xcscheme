@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "FD04CDC68C58ED2919E66A4B70788512"
-               BuildableName = "BlokID-iOS-Netset"
+               BuildableName = "BlokID_iOS_Netset.framework"
                BlueprintName = "BlokID-iOS-Netset"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
